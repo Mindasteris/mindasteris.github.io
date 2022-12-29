@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.nav-links {
+  @apply text-xl font-medium p-2;
+}
+.nav-links:hover {
+  @apply bg-black text-white rounded-md cursor-pointer;
+}
+
+h1 {
+  @apply text-5xl my-10;
+}
+
+.error {
+  @apply text-red-500;
+}
+
+.projects img {
+  @apply border border-black w-[500px] md:w-[900px]
+}
+
+.projects h2 {
+  @apply text-3xl italic
+}
