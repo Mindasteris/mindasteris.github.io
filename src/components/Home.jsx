@@ -12,7 +12,7 @@ const Home = () => {
           strings={['Mindaugas', 'Šunokas']} typeSpeed={70} backSpeed={100} loop
         />
         </p>
-        <p className='p-2 w-full md:w-1/2 mx-auto'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam veritatis cupiditate temporibus voluptate saepe dicta, sunt, eius unde possimus soluta cumque nobis. Autem distinctio sint aliquam placeat ullam suscipit repudiandae praesentium. Tempora quam dignissimos recusandae sed minima ipsam unde laudantium molestias velit, quidem aut repellat culpa laborum distinctio? Porro, mollitia!</p>
+        <p className='p-2 w-full md:w-1/2 mx-auto'>Ieškau Entry-level / Junior-level programuotojo darbo, internetinių svetainių kūrime. Baigta žiniatinklio programavimo specialybė, turiu patirties dirbant su <span className='font-semibold'>HTML, CSS, PHP, JAVASCRIPT,</span> taip pat ir su web karkasais: <span className='text-[#F05340]'>Laravel</span>, <span className='text-[#61DBFB]'>React</span>, <span className='text-[#FA74A0]'>Next.JS</span>. Esant poreikiu galiu atsiųsti savo gyvenimo aprašymą (CV). Visi pasiūlymai ir galimybės labai laukiami!</p>
 
         <h1 className='my-4 text-indigo-600'>React Native</h1>
 
