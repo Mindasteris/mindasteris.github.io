@@ -26,38 +26,38 @@ const Projects = () => {
         <p className='pb-10 text-lg'>All my projects can be found on Github: <a className='italic font-bold text-indigo-600 hover:underline' href="https://github.com/Mindasteris" target='_blank'>Click Here</a></p>
         <div>
           <div className='projects space-y-10 flex flex-col justify-center items-center'>
-          <h2>Gaming Hub Laravel</h2>
+          <h2>Project Gaming Hub Laravel</h2>
             <div className='space-y-8 p-4'>
               <img src={gaminghubHome} alt="gaminghub-home" />
               <img src={gaminghubServices} alt="gaminghub-services" />
               <img src={gaminghubCotact} alt="gaminghub-contact" />
             </div>
-            <h2>Site about Gaming Laravel</h2>
+            <h2>Project about Gaming Laravel</h2>
            <div className='space-y-8 p-4'>
               <img src={laravelltsiteHome} alt="laravelltsite-home" />
               <img src={laravelltsiteLogin} alt="laravelltsite-home" />
               <img src={laravelltsiteRegister} alt="laravelltsite-home" />
            </div>
-           <h2>Site about Xbox Laravel</h2>
+           <h2>Project about Xbox Laravel</h2>
             <div className='space-y-8 p-4'>
               <img src={laravelxboxHome} alt="laravelltsite-home" />
               <img src={laravelxboxCotact} alt="laravelltsite-home" />
               <img src={laravelxboxLogin} alt="laravelltsite-home" />
               <img src={laravelxboxRegister} alt="laravelltsite-home" />
             </div>
-            <h2>Site about Playstation Laravel</h2>
+            <h2>Project about Playstation Laravel</h2>
             <div className='space-y-8 p-4'>
               <img src={laravelpsHome} alt="laravelltsite-home" />
               <img src={laravelpsAbout} alt="laravelltsite-home" />
               <img src={laravelpsContact} alt="laravelltsite-home" />
             </div>
-            <h2>Site about Crash Bandicoot Laravel</h2>
+            <h2>Project about Crash Bandicoot Laravel</h2>
             <div className='space-y-8 p-4'>
               <img src={laravelcrashHome} alt="laravelltsite-home" />
               <img src={laravelcrashEvo} alt="laravelltsite-home" />
               <img src={laravelcrashContact} alt="laravelltsite-home" />
             </div>
-            <h2>Site about Spyro The Dragon</h2>
+            <h2>Project about Spyro The Dragon</h2>
             <div className='space-y-8 p-4'>
               <img src={laravelspyroHome} alt="laravelltsite-home" />
               <img src={laravelspyroGallery} alt="laravelltsite-home" />
