@@ -4,7 +4,7 @@ import {AiFillCheckCircle} from 'react-icons/ai'
 
 const Home = () => {
   return (
-    <div className='container mx-auto text-center my-20'>
+    <div className='container mx-auto text-center my-10'>
       <h1>Welcome to my Portfolio</h1>
 
      <div className='bg-black text-white min-h-[400px] rounded-lg mx-4 md:mx-0 mb-20'>

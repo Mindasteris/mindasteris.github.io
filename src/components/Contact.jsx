@@ -23,7 +23,7 @@ const Contact = () => {
   }
 
   return (
-    <div className='container mx-auto text-center my-20'>
+    <div className='container mx-auto text-center my-10'>
       <h1>Contact Me</h1>
 
       <form onSubmit={handleSubmit}>
