@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ab28a29.css",
+    "main.js": "/static/js/main.1e0df3cb.js",
+    "static/media/spyro-gallery.png": "/static/media/spyro-gallery.d9c82b2dd9911fb4f976.png",
+    "static/media/spyro-origins.png": "/static/media/spyro-origins.2bd4eea3a7a6abf4cdf4.png",
+    "static/media/spyro-home.png": "/static/media/spyro-home.5e2cd5547d93238a2c3e.png",
+    "static/media/laravel-crash-home.png": "/static/media/laravel-crash-home.5d8c72f5e140cc1017b3.png",
+    "static/media/laravel-crash-evo.png": "/static/media/laravel-crash-evo.673fc124a307aa0e963a.png",
+    "static/media/laravel-xbox-home.png": "/static/media/laravel-xbox-home.e961f4883551375be8c8.png",
+    "static/media/laravel-ps-home.png": "/static/media/laravel-ps-home.f26c6af1bef8256798ea.png",
+    "static/media/laravel-xbox-register.png": "/static/media/laravel-xbox-register.9c73774720f093ce1e91.png",
+    "static/media/laravel-xbox-login.png": "/static/media/laravel-xbox-login.df25141046a19c473322.png",
+    "static/media/gaminghub-home.png": "/static/media/gaminghub-home.09c54964e2dc70859b00.png",
+    "static/media/laravel-ps-about.png": "/static/media/laravel-ps-about.2ee4138883fb7fa5f5a6.png",
+    "static/media/laravel-ltsite-home.png": "/static/media/laravel-ltsite-home.558347de97bca46bef8f.png",
+    "static/media/gaminghub-services.png": "/static/media/gaminghub-services.df1afa6a5ad9cf9010f8.png",
+    "static/media/laravel-crash-contact.png": "/static/media/laravel-crash-contact.d05c8fd4b02997a5581b.png",
+    "static/media/laravel-xbox-contact.png": "/static/media/laravel-xbox-contact.275a32272b9c1854e850.png",
+    "static/media/laravel-ltsite-login.png": "/static/media/laravel-ltsite-login.194701624af16cf0b06f.png",
+    "static/media/laravel-ltsite-register.png": "/static/media/laravel-ltsite-register.864d95a1683ee28af3ae.png",
+    "static/media/laravel-ps-contact.png": "/static/media/laravel-ps-contact.6f592d246e9b8de6c48d.png",
+    "static/media/gaminghub-contact.png": "/static/media/gaminghub-contact.eb37696695916bb00d27.png",
+    "index.html": "/index.html",
+    "main.0ab28a29.css.map": "/static/css/main.0ab28a29.css.map",
+    "main.1e0df3cb.js.map": "/static/js/main.1e0df3cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab28a29.css",
+    "static/js/main.1e0df3cb.js"
+  ]
+}
