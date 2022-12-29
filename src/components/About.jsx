@@ -30,7 +30,7 @@ const About = () => {
                 <li>DHCP</li>
                 <li>Group Policy</li>
                 <li>File Sharing/Permissions</li>
-                <li>Micorosft 365 Admin</li>
+                <li>Microsoft 365 Admin</li>
               </ul>
            </div>
 
