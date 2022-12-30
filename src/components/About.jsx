@@ -2,10 +2,10 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div className='container mx-auto text-center my-10'>
+    <div className='text-center dark:bg-gray-900 dark:text-white py-4'>
       <h1>About</h1>
 
-      <div className='max-w-[900px] mx-auto text-center shadow-2xl shadow-black rounded-xl'>
+      <div className='max-w-[900px] mx-auto mb-20 text-center shadow-2xl shadow-black rounded-xl dark:bg-gray-800 dark:shadow-white'>
         <p className='mx-4 pt-4'>Esu komunikabilus, darbštus, atsakingas darbuotojas nebijantis naujų iššūkių.
             Ieškau darbo Informacinių Technologijų, Programuotojo, IT Administratoriaus, Visuomeninio darbo
             srityse. Turiu nemažai patirties susijusia su Informacinėmis Technologijomis,

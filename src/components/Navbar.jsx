@@ -3,25 +3,25 @@ import {Link } from 'react-router-dom'
 import mLogo from '../img/m.png'
 import {AiOutlineClose, AiOutlineMenu} from 'react-icons/ai'
 
-const Navbar = () => {
+const Navbar = ({darkMode, setDarkMode}) => {
 
     const [navbar, setNavbar] = useState(false)
 
   return (
-    <div>
-        <nav className='flex items-center justify-between md:justify-start shadow-md p-4'>
-            <div>
+    <div className='dark:bg-gray-900 dark:text-white'>
+        <nav className='flex items-center justify-between md:justify-start shadow-md p-4 dark:shadow-white'>
+            <div className='dark:bg-white rounded-xl'>
                 <Link to='/'><img src={mLogo} alt="mlogo" className='w-32' /></Link>
             </div>
 
             {/* Desktop Menu Links */}
             <div>
                 <ul className='hidden md:flex gap-8 ml-10'>
-                        <li className='nav-links'><Link to='/'>Home</Link></li>
-                        <li className='nav-links'><Link to='/projects'>Projects</Link></li>
-                        <li className='nav-links'><Link to='/about'>About</Link></li>
-                        <li className='nav-links'><Link to='/contact'>Contact</Link></li>
-                    </ul>
+                    <li className='nav-links'><Link to='/'>Home</Link></li>
+                    <li className='nav-links'><Link to='/projects'>Projects</Link></li>
+                    <li className='nav-links'><Link to='/about'>About</Link></li>
+                    <li className='nav-links'><Link to='/contact'>Contact</Link></li>
+                </ul>
             </div>
 
                 {/* Mobile Menu Icon */}
@@ -31,7 +31,7 @@ const Navbar = () => {
         </nav>
 
         {/* Mobile Menu Links */}
-        <div className='w-52 mx-auto my-4'>
+        <div className='w-52 mx-auto py-4'>
             <ul className={!navbar ? 'hidden' : 'flex flex-col text-center'}>
                 <li className='nav-links' onClick={() => setNavbar(!navbar)}><Link to='/'>Home</Link></li>
                 <li className='nav-links' onClick={() => setNavbar(!navbar)}><Link to='/projects'>Projects</Link></li>

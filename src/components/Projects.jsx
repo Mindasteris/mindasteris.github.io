@@ -21,11 +21,11 @@ import laravelspyroOrigins from '../img/projects/spyro-origins.png'
 
 const Projects = () => {
   return (
-    <div className='container mx-auto text-center my-10'>
+    <div className='text-center dark:bg-gray-900 dark:text-white py-4'>
         <h1>Projects</h1>
         <p className='pb-10 text-lg'>All my projects can be found on Github: <a className='italic font-bold text-indigo-600 hover:underline' href="https://github.com/Mindasteris" target='_blank'>Click Here</a></p>
         <div>
-          <div className='projects space-y-10 flex flex-col justify-center items-center'>
+          <div className='projects space-y-10 flex flex-col justify-center items-center pb-20'>
           <h2>Project Gaming Hub Laravel</h2>
             <div className='space-y-8 p-4'>
               <img src={gaminghubHome} alt="gaminghub-home" />

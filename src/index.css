@@ -12,7 +12,7 @@
   @apply text-xl font-medium p-2;
 }
 .nav-links:hover {
-  @apply bg-black text-white rounded-md cursor-pointer;
+  @apply bg-black text-white rounded-md cursor-pointer dark:bg-white dark:text-black;
 }
 
 h1 {
@@ -24,9 +24,9 @@ h1 {
 }
 
 .projects img {
-  @apply border border-black w-[500px] md:w-[900px]
+  @apply border border-black w-[500px] md:w-[900px];
 }
 
 .projects h2 {
-  @apply text-3xl italic
+  @apply text-3xl italic;
 }
