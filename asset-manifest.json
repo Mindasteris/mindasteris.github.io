@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0cfdfeee.css",
-    "main.js": "/static/js/main.ff2bd0bb.js",
+    "main.js": "/static/js/main.709d9a6a.js",
     "static/media/spyro-gallery.png": "/static/media/spyro-gallery.d9c82b2dd9911fb4f976.png",
     "static/media/spyro-origins.png": "/static/media/spyro-origins.2bd4eea3a7a6abf4cdf4.png",
     "static/media/spyro-home.png": "/static/media/spyro-home.5e2cd5547d93238a2c3e.png",
@@ -23,10 +23,10 @@
     "static/media/gaminghub-contact.png": "/static/media/gaminghub-contact.eb37696695916bb00d27.png",
     "index.html": "/index.html",
     "main.0cfdfeee.css.map": "/static/css/main.0cfdfeee.css.map",
-    "main.ff2bd0bb.js.map": "/static/js/main.ff2bd0bb.js.map"
+    "main.709d9a6a.js.map": "/static/js/main.709d9a6a.js.map"
   },
   "entrypoints": [
     "static/css/main.0cfdfeee.css",
-    "static/js/main.ff2bd0bb.js"
+    "static/js/main.709d9a6a.js"
   ]
 }
