@@ -17,7 +17,7 @@ function App() {
     <div className={darkMode ? 'dark' : ''}>
         <Navbar />
         {/* Dark Mode ON/OFF */}
-        <button className="w-full" onClick={() => setDarkMode(!darkMode)}>{darkMode ? [<div className="flex gap-4 p-4 items-center bg-gray-900 text-white hover:text-indigo-500"><FaRegMoon size={30} /> <span>Dark Mode</span></div>] : [<div className="flex gap-4 p-4 items-center hover:text-indigo-500"><FaRegSun size={30} /> <span>Light Mode</span></div>]}</button>
+        <button className="w-full" onClick={() => setDarkMode(!darkMode)}>{darkMode ? [<div className="flex gap-4 p-4 items-center bg-gray-900 text-white hover:text-indigo-500"><FaRegSun size={30} /> <span>Light Mode</span></div>] : [<div className="flex gap-4 p-4 items-center hover:text-indigo-500"><FaRegMoon size={30} /> <span>Dark Mode</span></div>]}</button>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />

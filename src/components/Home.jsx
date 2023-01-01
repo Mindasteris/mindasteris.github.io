@@ -11,7 +11,7 @@ const Home = () => {
       <p className='py-10 text-2xl'><b>My name:</b>&nbsp; <Typed
           strings={['Mindaugas', 'Šunokas']} typeSpeed={70} backSpeed={100} loop />
         </p>
-        <p className='p-4 w-full  mx-auto'>Ieškau Entry-level / Junior-level programuotojo darbo, internetinių svetainių ar programėlių kūrime. Baigta žiniatinklio programavimo specialybė, turiu patirties dirbant su <span className='font-semibold'>HTML, CSS, PHP, JAVASCRIPT,</span> taip pat ir su web karkasais: <span className='text-[#F05340]'>Laravel</span>, <span className='text-[#61DBFB]'>React</span>, <span className='text-[#FA74A0]'>Next.JS</span>. Stiliaus įrankiais <span className='text-[#563D7C]'>Bootstrap</span> ir <span className='text-[#3490DC]'>TailwindCSS</span>. Esant poreikiu galiu atsiųsti savo gyvenimo aprašymą (CV).<br/>Visi pasiūlymai ir galimybės labai laukiami!
+        <p className='p-4 w-full  mx-auto'>Ieškau Entry-level / Junior-level programuotojo darbo, internetinių svetainių ar programėlių kūrime. Baigta žiniatinklio programavimo specialybė, turiu patirties dirbant su <span className='font-semibold'>HTML, CSS, PHP, JAVASCRIPT,</span> taip pat ir su web karkasais: <span className='text-[#F05340]'>Laravel</span>, <span className='text-[#61DBFB]'>React</span>, <span className='text-[#FA74A0]'>Next.JS</span>. Stiliaus įrankiais <span className='text-[#563D7C]'>Bootstrap</span> ir <span className='text-[#3490DC]'>TailwindCSS</span>. Esant poreikiui galiu atsiųsti savo gyvenimo aprašymą (CV).<br/>Visi pasiūlymai ir galimybės labai laukiami!
         </p>
 
         <h1 className='my-4 text-indigo-600'>React Native</h1>
